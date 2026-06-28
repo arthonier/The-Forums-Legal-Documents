@@ -1,58 +1,60 @@
-```md
 # The Forums Legal Documents
 
-Official legal and policy documents for **The Forums**, a Roblox experience operated by **Arthonier Group**.
+Official legal documents and policies for **Forums**, a Roblox experience operated by **Arthonier**.
 
-This repository contains the current versions of all public legal documents, community policies, moderation guidelines, and privacy documentation applicable to The Forums.
+This repository contains the latest public versions of the legal documents that govern the use of Forums, including its terms, privacy practices, community standards, moderation procedures, and legal policies.
 
-> **Important**
-> These documents may be updated at any time. The latest version published in this repository is considered the current version unless otherwise stated.
-
----
-
-## Documents
-
-### Terms of Service
-- [Terms of Service](./Terms%20of%20Service.pdf)
-
-### Privacy & Data Protection
-- [Privacy Policy](./Privacy%20Policy.pdf)
-- [External Storage Policy](./External%20Storage%20Policy.pdf)
-
-### Community & Safety
-- [Community Rules](./Community%20Rules.pdf)
-- [Safety and Reporting](./Safety%20and%20Reporting.pdf)
-
-### Moderation & User Content
-- [Moderation and Appeals](./Moderation%20and%20Appeals.pdf)
-- [Content and Copyright](./Content%20and%20Copyright.pdf)
-
-### Legal Information
-- [Information and Legal Requests](./Information%20and%20Legal%20Requests.pdf)
+> **Notice**
+> Documents in this repository may be updated from time to time. The latest version available here is considered the current version unless stated otherwise.
 
 ---
 
-## Scope
+# Documents
 
-These documents apply to The Forums and govern, where applicable:
+## Terms
 
-- Use of the experience
-- User-generated content
-- Community behavior
-- Moderation procedures
-- Privacy and data handling
-- Copyright and intellectual property
-- Legal requests and disclosures
+* [Terms of Service](./Terms%20of%20Service.pdf)
 
-Where required, these documents are intended to complement the applicable Roblox Terms of Use and Community Standards.
+## Privacy & Data
+
+* [Privacy Policy](./Privacy%20Policy.pdf)
+* [External Storage Policy](./External%20Storage%20Policy.pdf)
+
+## Community & Safety
+
+* [Community Rules](./Community%20Rules.pdf)
+* [Safety and Reporting](./Safety%20and%20Reporting.pdf)
+
+## Moderation & Content
+
+* [Moderation and Appeals](./Moderation%20and%20Appeals.pdf)
+* [Content and Copyright](./Content%20and%20Copyright.pdf)
+
+## Legal
+
+* [Information and Legal Requests](./Information%20and%20Legal%20Requests.pdf)
 
 ---
 
-## Repository Information
+# Scope
 
-**Repository:** The Forums Legal Documents
+These documents govern, where applicable:
 
-**Maintained by:** Arthonier Group
+* Access to and use of Forums
+* User conduct and community expectations
+* Moderation actions and appeals
+* Privacy and data handling
+* User-generated content
+* Copyright and intellectual property
+* Legal and information requests
 
-This repository contains documentation only. No source code or game assets are included.
-```
+Where applicable, these policies supplement the Roblox Terms of Use and Roblox Community Standards.
+
+---
+
+# About
+
+**Experience:** Forums
+**Operator:** Arthonier
+
+This repository is dedicated exclusively to the legal and policy documentation for Forums. It does not contain game source code, assets, or development resources.
